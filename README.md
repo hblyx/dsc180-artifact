@@ -2,8 +2,11 @@
 * `report.pdf` is the final project report
 * `title-abstract.txt` contains the sample title/abstract with the title/abstract of the project
 * `artifacts.json` contains following contents:
-  * a
-  * b
+  * `this-repository` contains this GitHub URL.
+  * `project-repository` contains the GitHub URL to the project's code repository under the `main` branch.
+  * `dockerhub-repository` contains the DockerHub username, DockerHub repository name, and tag for reproducing the project.
+  * `project-website-url` contains the URL to the public-facing project website.
+  * `project-website-code` contains the GitHub URL to your project website's source code which is the same as the `project-repository` as use GitHub pages as the website. Specifically, the code for GitHub page is under `gh-pages` branch.
 
 # artifact-directory-template
 
