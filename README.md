@@ -1,3 +1,10 @@
+# About
+* `report.pdf` is the final project report
+* `title-abstract.txt` contains the sample title/abstract with the title/abstract of the project
+* `artifacts.json` contains following contents:
+  * a
+  * b
+
 # artifact-directory-template
 
 This repository is a template for turning in links/locations to your
